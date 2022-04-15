@@ -2,6 +2,8 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 public class reverseArr {
+    public static void main(String[] strings) {
+    }
 
       /*
         Given String array

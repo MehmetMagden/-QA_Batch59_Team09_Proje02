@@ -1,4 +1,6 @@
 public class minNumber {
+    public static void main(String[] strings) {
+    }
 
       /*
         Create int 2D array
