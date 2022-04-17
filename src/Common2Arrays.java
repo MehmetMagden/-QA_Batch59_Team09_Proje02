@@ -56,7 +56,7 @@ public class Common2Arrays {
  */
 
 
-
+        System.out.println("recep çakır. arrays2");
 
 
     }
