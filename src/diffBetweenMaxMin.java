@@ -43,6 +43,8 @@ public class diffBetweenMaxMin {
             int num =Integer.parseInt(strArr[i]);
             useThisArray[i] = num;
 
+            System.out.println("burhan");
+
         }
 
     // Your code start here. Don't remove or change anything before this line. Your array is -> useThisArray in line 27
