@@ -56,9 +56,6 @@ public class arrayContains {
 //        UseThisArray1 ve UseThisArray2 array isimlerini kullan
 
 
-
-
-
-
+        System.out.println("inş gönderilmiştir");
     }
 }
