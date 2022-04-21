@@ -1,3 +1,4 @@
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class Common2Arrays {
@@ -51,14 +52,15 @@ public class Common2Arrays {
         // koda burdan basla
         // array1 and array2  kullan
 
-
-
  */
 
+        System.out.println("Array1= "+ Arrays.toString(array1));
+        System.out.println("Array2= "+Arrays.toString(array2));
+        System.out.println(array1[0]==array2[0]||array1[array1.length-1]==array2[array2.length-1]);
 
-        System.out.println("recep çakır. arrays2");
+
+        }
 
 
     }
 
-}
