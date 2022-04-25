@@ -54,8 +54,8 @@ public class Common2Arrays {
 
  */
 
-        System.out.println("Array1= "+ Arrays.toString(array1)); // Array 1 Yazdırılıyor
-        System.out.println("Array2= "+Arrays.toString(array2)); // Array 2 yazdırılıyor
+        System.out.println("Array1= "+ Arrays.toString(array1));
+        System.out.println("Array2= "+Arrays.toString(array2));
         System.out.println(array1[0]==array2[0]||array1[array1.length-1]==array2[array2.length-1]); // ilk elemanların ve son elemanların eşitliği kontrol ediliyor
 
 
